@@ -1,7 +1,7 @@
 ﻿/// <summary>
 /// Головний клас програми.
 /// </summary>
-class Program
+class Hello
 {
     /// <summary>
     /// Головний метод програми.
